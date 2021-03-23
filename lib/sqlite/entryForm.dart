@@ -74,7 +74,7 @@ class EntryFormState extends State<EntryForm> {
               Padding(
                 padding: EdgeInsets.only(top: 20.0, bottom: 20.0),
                 child: TextField(
-                  controller: priceController,
+                  controller: stokController,
                   keyboardType: TextInputType.number,
                   decoration: InputDecoration(
                     labelText: 'Stok',
@@ -92,8 +92,8 @@ class EntryFormState extends State<EntryForm> {
               Padding(
                 padding: EdgeInsets.only(top: 20.0, bottom: 20.0),
                 child: TextField(
-                  controller: priceController,
-                  keyboardType: TextInputType.number,
+                  controller: kodeBarangController,
+                  keyboardType: TextInputType.text,
                   decoration: InputDecoration(
                     labelText: 'Kode Barang',
                     border: OutlineInputBorder(
