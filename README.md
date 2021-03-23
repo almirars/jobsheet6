@@ -24,6 +24,24 @@
 
 ![edit   hapus](https://user-images.githubusercontent.com/64759903/112097844-58da6480-8bd3-11eb-870c-5266bc2ec755.jpeg)
 
+TUGAS
+1. isi form
+
+![gulaa](https://user-images.githubusercontent.com/64759903/112098615-ab685080-8bd4-11eb-90c4-94b887bc3a91.jpeg)
+
+2. tampil di menu
+
+![tampil](https://user-images.githubusercontent.com/64759903/112098623-adcaaa80-8bd4-11eb-96ed-8a66d7f3bfd3.jpeg)
+
+3. hapus oatmeal
+
+![sukses hapus](https://user-images.githubusercontent.com/64759903/112098620-ad321400-8bd4-11eb-9e47-d10e03ce6c07.jpeg)
+
+4. edit item gula
+
+![edit](https://user-images.githubusercontent.com/64759903/112098617-ac997d80-8bd4-11eb-8fe9-0875b229b9b6.jpeg)
+
+
 
 
 
