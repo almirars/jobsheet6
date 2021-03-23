@@ -41,6 +41,11 @@ TUGAS
 
 ![edit](https://user-images.githubusercontent.com/64759903/112098617-ac997d80-8bd4-11eb-8fe9-0875b229b9b6.jpeg)
 
+5. berhasil edit item gula
+
+![berhasil edit](https://user-images.githubusercontent.com/64759903/112098899-1f0a5d80-8bd5-11eb-8db9-002f21509a67.jpeg)
+
+
 
 
 
